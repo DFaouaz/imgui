@@ -1,3 +1,11 @@
+# Custom ignore files
+**/[Bb]in/
+**/[Bb]in-int/
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.sln
+
 ## OSX artifacts
 .DS_Store
 
